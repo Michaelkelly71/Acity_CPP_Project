@@ -54,3 +54,10 @@ Books in Library:
 
 Library Members:
    ID                Name
+
+Books in Library:
+   ID               Title              Author              Status
+    6              Warren                 Aja           Available
+
+Library Members:
+   ID                Name
